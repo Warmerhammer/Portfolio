@@ -1,0 +1,15 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+/*-----------------------------
+          fonts
+-----------------------------*/
+
+@pageFont: 'IBM Plex Mono';
+@menuFont: 'IBM Plex Mono';
+@googleFontFamily: 'IBM+Plex+Mono:100,300,400,600,700';
+
+@red : #1d0503;
+@green: #86C232;
+@LinkedInBlue: #2867B2;
